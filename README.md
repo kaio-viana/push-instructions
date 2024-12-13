@@ -4,9 +4,7 @@
 &nbsp;
 &nbsp;
 
-# 🚀 Push Instructions
-
-A simple guide to initialize a Git repository and push the first commit to a remote repository.
+> A simple guide to initialize a Git repository and push the first commit to a remote repository.
 
 &nbsp;
 
